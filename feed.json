@@ -1,35 +1,29 @@
 {
-	"title": "Foundation Playgrounds",
-	"subtitle": "Learn Swift.",
-	"publisherName": "Intellis",
-	"feedIdentifier": "io.github.justins475",
-	"contactURL": "https://wwww.intellis.io",
-	"formatVersion": "1.0",
-	"documents": 
-	[
-		{
-			"title": "View USDZ using Scenekit",
-			"overviewSubtitle": "View USDZ using Scenekit",
-			"detailSubtitle": "View USDZ using Scenekit",
-			"description": "View USDZ using Scenekit",           
-			"contentIdentifier": "io.github.justins475.scenekit",
-			"contentVersion": "1.0",
-			"url": "https://justins475.github.io/SceneKit/ImageTransitions.playgroundbook.zip",
-			"publishedDate": "2020-06-18T09:00:00+05:00",
-			"lastUpdatedDate": "2020-06-18T09:00:00+05:00",
-			"thumbnailURL": "https://justins475.github.io/SceneKit/thumbImage.png",
-			"bannerImageURL": "https://justins475.github.io/SceneKit/bannerImage.png",
-			"additionalInformation": 
-			[
-				{
+    "title": "WWDC Photo Filters",
+    "publisherName": "Holly and Grace",
+    "feedIdentifier": "io.github.WWDCPhotoFilters",
+    "contactURL": "mailto:example@apple.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Image Transitions",
+            "overviewSubtitle": "CIFilters in the Transition Category.",
+            "detailSubtitle": "Filters in CICategoryTransition.",
+            "description": "Learn some ways to use Core Image to transition between images.",
+            "contentIdentifier": "io.github.WWDCPhotoFilters.imageTransitions",
+            "contentVersion": "1.0",
+            "url": "https://WWDCPhotoFilters.github.io/ImageTransitions/ImageTransitions.playgroundbook.zip",
+            "publishedDate": "2018-05-18T12:00:00+00:00",
+            "lastUpdatedDate": "2018-05-18T12:00:00+00:00",
+            "thumbnailURL": "ImageTransitions/thumbnail.png",
+            "bannerImageURL": "ImageTransitions/bannerImage.png",
+            "additionalInformation": [
+                {
                     "name": "Languages",
                     "value": "English"
-                },
-				{
-                    "name": "Version",
-                    "value": "1.0.0"
                 }
-			]			
-		}
+            ],
+            "previewImageURLs": []
+        }
 	]
 }
