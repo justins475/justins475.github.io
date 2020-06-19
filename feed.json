@@ -1,0 +1,35 @@
+{
+	"title": "Foundation Playgrounds",
+	"subtitle": "Learn Swift.",
+	"publisherName": "Intellis",
+	"feedIdentifier": "io.intellis.foundation",
+	"contactURL": "https://wwww.intellis.io",
+	"formatVersion": "1.0",
+	"documents": 
+	[
+		{
+			"title": "View USDZ using Scenekit",
+			"overviewSubtitle": "View USDZ using Scenekit",
+			"detailSubtitle": "View USDZ using Scenekit",
+			"description": "View USDZ using Scenekit",           
+			"contentIdentifier": "io.intellis.mv01dev01.scenekit",
+			"contentVersion": "1.0",
+			"url": "/scenekit/LoadUSDZ.playground.zip",
+			"publishedDate": "2020-06-18T09:00:00+05:00",
+			"lastUpdatedDate": "2020-06-18T09:00:00+05:00",
+			"thumbnailURL": "/scenekit/thumbImage.png",
+			"bannerImageURL": "/scenekit/bannerImage.png",
+			"additionalInformation": 
+			[
+				{
+                    "name": "Languages",
+                    "value": "English"
+                },
+				{
+                    "name": "Version",
+                    "value": "1.0.0"
+                }
+			]			
+		}
+	]
+}
