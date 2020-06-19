@@ -2,7 +2,7 @@
 	"title": "Foundation Playgrounds",
 	"subtitle": "Learn Swift.",
 	"publisherName": "Intellis",
-	"feedIdentifier": "io.intellis.foundation",
+	"feedIdentifier": "io.github.justins475",
 	"contactURL": "https://wwww.intellis.io",
 	"formatVersion": "1.0",
 	"documents": 
@@ -12,13 +12,13 @@
 			"overviewSubtitle": "View USDZ using Scenekit",
 			"detailSubtitle": "View USDZ using Scenekit",
 			"description": "View USDZ using Scenekit",           
-			"contentIdentifier": "io.intellis.mv01dev01.scenekit",
+			"contentIdentifier": "io.github.justins475.scenekit",
 			"contentVersion": "1.0",
-			"url": "SceneKit/ImageTransitions.playgroundbook.zip",
+			"url": "https://justins475.github.io/SceneKit/ImageTransitions.playgroundbook.zip",
 			"publishedDate": "2020-06-18T09:00:00+05:00",
 			"lastUpdatedDate": "2020-06-18T09:00:00+05:00",
-			"thumbnailURL": "SceneKit/thumbImage.png",
-			"bannerImageURL": "SceneKit/bannerImage.png",
+			"thumbnailURL": "https://justins475.github.io/SceneKit/thumbImage.png",
+			"bannerImageURL": "https://justins475.github.io/SceneKit/bannerImage.png",
 			"additionalInformation": 
 			[
 				{
